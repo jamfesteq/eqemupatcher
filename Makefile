@@ -19,10 +19,13 @@ expansion-0:
 	@#Classic
 	@${MAKE_S} cp-file-arena_v0
 	@${MAKE_S} cp-file-ecommons_v0
+	@${MAKE_S} cp-file-commons_v0
 	@${MAKE_S} cp-file-highpass_v0
 	@${MAKE_S} cp-file-lavastorm_v0
 	@${MAKE_S} cp-file-nektulos_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
+	@echo "nektulos.eqg" >> rof/delete.txt
+	
 
 expansion-1: expansion-0
 
@@ -39,10 +42,12 @@ expansion-4:
 	@#Classic
 	@${MAKE_S} cp-file-arena_v0
 	@${MAKE_S} cp-file-ecommons_v0
+	@${MAKE_S} cp-file-commons_v0
 	@${MAKE_S} cp-file-highpass_v0
 	@${MAKE_S} cp-file-lavastorm_v0
 	@${MAKE_S} cp-file-nektulos_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
+	@echo "nektulos.eqg" >> rof/delete.txt
 	@#Luclin
 	@${MAKE_S} cp-file-barter_v0
 
@@ -63,10 +68,12 @@ expansion-9:
 	@#Classic
 	@${MAKE_S} cp-file-arena_v0
 	@${MAKE_S} cp-file-ecommons_v0
+	@${MAKE_S} cp-file-commons_v0
 	@${MAKE_S} cp-file-highpass_v0
 	@${MAKE_S} cp-file-lavastorm_v0
 	@${MAKE_S} cp-file-nektulos_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
+	@echo "nektulos.eqg" >> rof/delete.txt
 	@#Luclin
 	@${MAKE_S} cp-file-barter_v0
 	@#DoN
@@ -84,10 +91,12 @@ expansion-10:
 	@#Classic
 	@${MAKE_S} cp-file-arena_v0
 	@${MAKE_S} cp-file-ecommons_v0
+	@${MAKE_S} cp-file-commons_v0
 	@${MAKE_S} cp-file-highpass_v0
 	@${MAKE_S} cp-file-lavastorm_v0
 	@${MAKE_S} cp-file-nektulos_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
+	@echo "nektulos.eqg" >> rof/delete.txt
 	@#Luclin
 	@${MAKE_S} cp-file-barter_v0
 	@#DoN
@@ -114,10 +123,12 @@ expansion-17:
 	@#Classic
 	@${MAKE_S} cp-file-arena_v0
 	@${MAKE_S} cp-file-ecommons_v0
+	@${MAKE_S} cp-file-commons_v0
 	@${MAKE_S} cp-file-highpass_v0
 	@${MAKE_S} cp-file-lavastorm_v0
 	@${MAKE_S} cp-file-nektulos_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
+	@echo "nektulos.eqg" >> rof/delete.txt
 	@#Luclin
 	@${MAKE_S} cp-file-barter_v0
 	@#DoN
@@ -141,10 +152,12 @@ expansion-19:
 	@#Classic
 	@${MAKE_S} cp-file-arena_v0
 	@${MAKE_S} cp-file-ecommons_v0
+	@${MAKE_S} cp-file-commons_v0
 	@${MAKE_S} cp-file-highpass_v0
 	@${MAKE_S} cp-file-lavastorm_v0
 	@${MAKE_S} cp-file-nektulos_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
+	@echo "nektulos.eqg" >> rof/delete.txt
 	@#Luclin
 	@${MAKE_S} cp-file-barter_v0
 	@#DoN
