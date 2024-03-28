@@ -15,7 +15,7 @@ expansion-0:
 	mkdir -p rof/maps/
 	rm -rf server/*
 	rm -f rof/maps/*
-	rm rof/delete.txt
+	rm -f rof/delete.txt
 	@#Classic
 	@${MAKE_S} cp-file-arena_v0
 	@${MAKE_S} cp-file-ecommons_v0
@@ -35,7 +35,7 @@ expansion-4:
 	mkdir -p rof/maps/
 	rm -rf server/*
 	rm -f rof/maps/*
-	rm rof/delete.txt
+	rm -f rof/delete.txt
 	@#Classic
 	@${MAKE_S} cp-file-arena_v0
 	@${MAKE_S} cp-file-ecommons_v0
@@ -59,6 +59,7 @@ expansion-9:
 	mkdir -p rof/maps/
 	rm -rf server/*
 	rm -f rof/maps/*
+	rm -f rof/delete.txt
 	@#Classic
 	@${MAKE_S} cp-file-arena_v0
 	@${MAKE_S} cp-file-ecommons_v0
@@ -79,6 +80,7 @@ expansion-10:
 	mkdir -p rof/maps/
 	rm -rf server/*
 	rm -f rof/maps/*
+	rm -f rof/delete.txt
 	@#Classic
 	@${MAKE_S} cp-file-arena_v0
 	@${MAKE_S} cp-file-ecommons_v0
@@ -108,6 +110,7 @@ expansion-17:
 	mkdir -p rof/maps/
 	rm -rf server/*
 	rm -f rof/maps/*
+	rm -f rof/delete.txt
 	@#Classic
 	@${MAKE_S} cp-file-arena_v0
 	@${MAKE_S} cp-file-ecommons_v0
@@ -134,6 +137,7 @@ expansion-19:
 	mkdir -p rof/maps/
 	rm -rf server/*
 	rm -f rof/maps/*
+	rm -f rof/delete.txt
 	@#Classic
 	@${MAKE_S} cp-file-arena_v0
 	@${MAKE_S} cp-file-ecommons_v0
