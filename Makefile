@@ -25,6 +25,7 @@ expansion-0:
 	@${MAKE_S} cp-file-nektulos_v0
 	@${MAKE_S} cp-file-bazaar_v0
 	@${MAKE_S} cp-file-misty_v0
+	@${MAKE_S} cp-file-tox_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
 	@echo "nektulos.eqg" >> rof/delete.txt
 	@echo "bazaar.eqg" >> rof/delete.txt
@@ -52,6 +53,7 @@ expansion-4:
 	@${MAKE_S} cp-file-nektulos_v0
 	@${MAKE_S} cp-file-bazaar_v0
 	@${MAKE_S} cp-file-misty_v0
+	@${MAKE_S} cp-file-tox_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
 	@echo "nektulos.eqg" >> rof/delete.txt
 	@echo "bazaar.eqg" >> rof/delete.txt
@@ -83,6 +85,7 @@ expansion-9:
 	@${MAKE_S} cp-file-nektulos_v0
 	@${MAKE_S} cp-file-bazaar_v0
 	@${MAKE_S} cp-file-misty_v0
+	@${MAKE_S} cp-file-tox_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
 	@echo "nektulos.eqg" >> rof/delete.txt
 	@echo "bazaar.eqg" >> rof/delete.txt
@@ -111,6 +114,7 @@ expansion-10:
 	@${MAKE_S} cp-file-nektulos_v0
 	@${MAKE_S} cp-file-bazaar_v0
 	@${MAKE_S} cp-file-misty_v0
+	@${MAKE_S} cp-file-tox_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
 	@echo "nektulos.eqg" >> rof/delete.txt
 	@echo "bazaar.eqg" >> rof/delete.txt
@@ -147,6 +151,7 @@ expansion-17:
 	@${MAKE_S} cp-file-nektulos_v0
 	@${MAKE_S} cp-file-bazaar_v0
 	@${MAKE_S} cp-file-misty_v0
+	@${MAKE_S} cp-file-tox_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
 	@echo "nektulos.eqg" >> rof/delete.txt
 	@echo "bazaar.eqg" >> rof/delete.txt
@@ -180,6 +185,7 @@ expansion-19:
 	@${MAKE_S} cp-file-nektulos_v0
 	@${MAKE_S} cp-file-bazaar_v0
 	@${MAKE_S} cp-file-misty_v0
+	@${MAKE_S} cp-file-tox_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
 	@echo "nektulos.eqg" >> rof/delete.txt
 	@echo "bazaar.eqg" >> rof/delete.txt
