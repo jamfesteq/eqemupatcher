@@ -1,4 +1,4 @@
-EXPANSION := 2
+EXPANSION := 3
 
 MAKE_S := $(MAKE) --no-print-directory
 
@@ -36,9 +36,7 @@ expansion-1: expansion-0
 
 expansion-2: expansion-0
 
-expansion-3: expansion-0
-
-expansion-4:
+expansion-3:
 	mkdir -p server
 	mkdir -p rof/maps/
 	rm -rf server/*
@@ -61,14 +59,15 @@ expansion-4:
 	@#Luclin
 	@${MAKE_S} cp-file-barter_v0
 	
+expansion-4: expansion-3
 
-expansion-5: expansion-4
+expansion-5: expansion-3
 
-expansion-6: expansion-4
+expansion-6: expansion-3
 
-expansion-7: expansion-4
+expansion-7: expansion-3
 
-expansion-8: expansion-4
+expansion-8: expansion-3
 
 expansion-9:
 	mkdir -p server
