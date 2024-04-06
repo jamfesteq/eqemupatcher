@@ -1,4 +1,4 @@
-EXPANSION := 6
+EXPANSION := 8
 
 MAKE_S := $(MAKE) --no-print-directory
 
