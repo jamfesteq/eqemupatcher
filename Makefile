@@ -26,6 +26,7 @@ expansion-0:
 	@${MAKE_S} cp-file-bazaar_v0
 	@${MAKE_S} cp-file-misty_v0
 	@${MAKE_S} cp-file-tox_v0
+	@${MAKE_S} cp-file-guildlobby_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
 	@echo "nektulos.eqg" >> rof/delete.txt
 	@echo "bazaar.eqg" >> rof/delete.txt
@@ -52,6 +53,7 @@ expansion-3:
 	@${MAKE_S} cp-file-bazaar_v0
 	@${MAKE_S} cp-file-misty_v0
 	@${MAKE_S} cp-file-tox_v0
+	@${MAKE_S} cp-file-guildlobby_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
 	@echo "nektulos.eqg" >> rof/delete.txt
 	@echo "bazaar.eqg" >> rof/delete.txt
@@ -85,6 +87,7 @@ expansion-9:
 	@${MAKE_S} cp-file-bazaar_v0
 	@${MAKE_S} cp-file-misty_v0
 	@${MAKE_S} cp-file-tox_v0
+	@${MAKE_S} cp-file-guildlobby_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
 	@echo "nektulos.eqg" >> rof/delete.txt
 	@echo "bazaar.eqg" >> rof/delete.txt
@@ -93,7 +96,7 @@ expansion-9:
 	@${MAKE_S} cp-file-barter_v0
 	@#DoN
 	@${MAKE_S} cp-file-guildhall_v0
-	@${MAKE_S} cp-file-guildlobby_v0
+	@${MAKE_S} cp-file-guildlobby_v1
 	@${MAKE_S} cp-file-lavastorm_v1
 	@${MAKE_S} cp-file-bazaar_v1
 	@echo "" > rof/delete.txt
@@ -114,6 +117,7 @@ expansion-10:
 	@${MAKE_S} cp-file-bazaar_v0
 	@${MAKE_S} cp-file-misty_v0
 	@${MAKE_S} cp-file-tox_v0
+	@${MAKE_S} cp-file-guildlobby_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
 	@echo "nektulos.eqg" >> rof/delete.txt
 	@echo "bazaar.eqg" >> rof/delete.txt
@@ -121,7 +125,7 @@ expansion-10:
 	@${MAKE_S} cp-file-barter_v0
 	@#DoN
 	@${MAKE_S} cp-file-guildhall_v0
-	@${MAKE_S} cp-file-guildlobby_v0
+	@${MAKE_S} cp-file-guildlobby_v1
 	@${MAKE_S} cp-file-lavastorm_v1
 	@${MAKE_S} cp-file-bazaar_v1
 	@echo "" > rof/delete.txt
@@ -151,6 +155,7 @@ expansion-17:
 	@${MAKE_S} cp-file-bazaar_v0
 	@${MAKE_S} cp-file-misty_v0
 	@${MAKE_S} cp-file-tox_v0
+	@${MAKE_S} cp-file-guildlobby_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
 	@echo "nektulos.eqg" >> rof/delete.txt
 	@echo "bazaar.eqg" >> rof/delete.txt
@@ -158,14 +163,14 @@ expansion-17:
 	@${MAKE_S} cp-file-barter_v0
 	@#DoN
 	@${MAKE_S} cp-file-guildhall_v0
-	@${MAKE_S} cp-file-guildlobby_v0
+	@${MAKE_S} cp-file-guildlobby_v1
 	@${MAKE_S} cp-file-lavastorm_v1
 	@${MAKE_S} cp-file-bazaar_v1
 	@echo "" > rof/delete.txt
 	@#DoDH
 	@${MAKE_S} cp-file-nektulos_v1
 	@#HoT
-	@${MAKE_S} cp-file-guildlobby_v1
+	@${MAKE_S} cp-file-guildlobby_v2
 	
 expansion-18: expansion-17
 
@@ -185,6 +190,7 @@ expansion-19:
 	@${MAKE_S} cp-file-bazaar_v0
 	@${MAKE_S} cp-file-misty_v0
 	@${MAKE_S} cp-file-tox_v0
+	@${MAKE_S} cp-file-guildlobby_v0
 	@echo "lavastorm.eqg" > rof/delete.txt
 	@echo "nektulos.eqg" >> rof/delete.txt
 	@echo "bazaar.eqg" >> rof/delete.txt
