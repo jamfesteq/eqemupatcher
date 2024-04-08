@@ -1,4 +1,4 @@
-24
+30
 dke,dke
 seg,seg
 snk,snk
@@ -19,7 +19,13 @@ bet,ecommons_chr
 sna,ecommons_chr
 spi,ecommons_chr
 wil,ecommons_chr
-zom,ecommons_chr
-zof,ecommons_chr
 gol,cazicthule_chr
 gia,cazicthule_chr
+T05,T05
+zmm,zmm
+mmy,mmy_chr
+bse,bse
+tre,southkarana_chr
+rkp,rkp
+mud,mud
+bdr,bdr
