@@ -1,4 +1,1 @@
-lavastorm.eqg
-nektulos.eqg
-bazaar.eqg
-nektulos_EnvironmentEmitters.txt
+
