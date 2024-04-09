@@ -1,4 +1,4 @@
-EXPANSION := 10
+EXPANSION := 11
 
 MAKE_S := $(MAKE) --no-print-directory
 
@@ -101,7 +101,9 @@ expansion-9:
 	@${MAKE_S} cp-file-bazaar_v1
 	@echo "" > rof/delete.txt
 	
-expansion-10:
+expansion-10: expansion-9
+
+expansion-11:
 	mkdir -p server
 	mkdir -p rof/maps/
 	rm -rf server/*
@@ -132,12 +134,11 @@ expansion-10:
 	@#DoDH
 	@${MAKE_S} cp-file-nektulos_v1
 
-expansion-11: expansion-10
-expansion-12: expansion-10
-expansion-13: expansion-10
-expansion-14: expansion-10
-expansion-15: expansion-10
-expansion-16: expansion-10
+expansion-12: expansion-11
+expansion-13: expansion-11
+expansion-14: expansion-11
+expansion-15: expansion-11
+expansion-16: expansion-11
 
 expansion-17:
 	mkdir -p server
