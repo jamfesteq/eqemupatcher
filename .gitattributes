@@ -11,7 +11,7 @@
 *.xmi binary
 *.eqg binary
 *.mp3 binary
-*.emt binary
+*.emt merge=binary
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
